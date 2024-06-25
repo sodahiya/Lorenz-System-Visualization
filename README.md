@@ -1,6 +1,6 @@
 # Lorenz System Visualization
 
-This project uses p5.js to visualize the Lorenz system, a set of differential equations that exhibit chaotic behavior. The program generates a 3D trajectory of the system's evolution over time, allowing users to interact with the visualization. Based on Daniel Shiffman Video.
+This project uses p5.js WEBGL to visualize the Lorenz system, a set of differential equations that exhibit chaotic behavior. The program generates a 3D trajectory of the system's evolution over time, allowing users to interact with the visualization. Based on Daniel Shiffman Video.
 
 
 ## Features
